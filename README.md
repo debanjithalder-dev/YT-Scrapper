@@ -202,18 +202,5 @@ If a topic is not covered in the indexed lectures, the system responds:
 
 **"Ye topic in lectures me cover nahi hua."**
 
-## 🔮 Future Improvements
-
-- Support for multiple YouTube playlists and educational creators.
-- Improved multilingual retrieval and transcription.
-- More advanced hybrid search combining semantic and keyword retrieval.
-- User authentication and personalized learning history.
-- Support for additional educational domains beyond DSA.
-
-## 👨‍💻 Author
-
-Developed as an AI-powered educational search and retrieval project using Retrieval-Augmented Generation (RAG).
-
----
 
 **Built with Python, RAG, Vector Search and Generative AI.**
